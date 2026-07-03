@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ARVIND%20KUMAR&fontSize=60&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer&descAlignY=58&descSize=18&descColor=8B8FA3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=A%20ARVIND%20KUMAR&fontSize=60&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer&descAlignY=58&descSize=18&descColor=8B8FA3" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Computer+Vision;Agentic+AI;RAG" />
 
